@@ -1,1 +1,1 @@
-This is an NFT minting App on the Solana Blockchain
+This Script Calculates Simple Interest
